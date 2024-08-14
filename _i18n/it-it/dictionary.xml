@@ -1485,7 +1485,6 @@ Il percorso determina la risorsa specifica a cui si applica l'azione durante l'e
   <block id="82ef718f4ebe0c276814ee3d51e33361" category="list-text">SnapRestore</block>
   <block id="5bc075cee240a70af54270621d93765c" category="list-text">SnapVault</block>
   <block id="306a97cf9f5c4fb1198deb28baf7cf94" category="list-text">Disaster recovery delle macchine virtuali storage (DR SVM)</block>
-  <block id="8e59a8dddb8fd9611be1f2b3aca8c4fa" category="admonition">ONTAP Select 9.12.1 e versioni successive ora supporta DR SVM come origine con un massimo di 16 relazioni. Il supporto DR SVM è limitato all'utilizzo della versione ONTAP di origine alle versioni +2, ad esempio da 9.12.1 a 9.14.1.</block>
   <block id="a56a12489213d10b531398efee448f95" category="section-title">Funzionalità ONTAP con licenza separata</block>
   <block id="585f4a038bba40a29999437c007446e9" category="paragraph">È necessario acquistare una licenza separata per qualsiasi funzione ONTAP non attivata per impostazione predefinita, tra cui:</block>
   <block id="cd4d0565c73e994a0df5b7c0a072acc6" category="list-text">Servizio di disponibilità dei dati</block>
@@ -3773,4 +3772,5 @@ dischi di ricambio dell'aggregato di storage</block>
   <block id="1c5ffa58ac07641f5cec5616c07b2ba2" category="sidebar">Aggiungere immagini ONTAP Select</block>
   <block id="0a15f7ba73868a32304fdf52855463c9" category="sidebar">Rimuovere le immagini ONTAP Select</block>
   <block id="afc9d68a1be701598b5ef94dc0be2844" category="sidebar">Ripristinare l'implementazione per un cluster a due nodi</block>
+  <block id="f99bb666310fb365b4d0029c161a384b" category="admonition">ONTAP Select 9.12.1 (e versioni successive) ora supporta DR SVM come origine e destinazione, con un massimo di 16 relazioni. Il supporto DR SVM è limitato all'utilizzo della versione ONTAP di origine alle versioni +2. Ad esempio, l'origine ONTAP Select 9.12.1 può connettersi alle versioni di ONTAP di destinazione 9.12.1, 9.13.1 o 9.14.1.</block>
 </blocks>
