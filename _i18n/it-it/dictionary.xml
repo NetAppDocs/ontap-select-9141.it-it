@@ -3679,7 +3679,6 @@ dischi di ricambio dell'aggregato di storage</block>
   <block id="bf228c91d777320bb66324531a85cdb5" category="list-text">URL proxy (opzionale)</block>
   <block id="a070d5cad46a2ff939c511d82e8fa8a6" category="list-text">Digitare *?* e premere *Invio* per visualizzare un elenco dei comandi della shell di gestione disponibili.</block>
   <block id="f8304478cfdeb2db287b6dcf0b36f3a8" category="sidebar">NetApp ONTAP Select è un'appliance di storage software-defined che è possibile implementare su una vasta gamma di commodity server che eseguono VMware ESXi o hypervisor kernel-Based Virtual Machine (KVM). Offre l'agilità necessaria per creare un'infrastruttura di cloud privato flessibile e scalabile. Questo sito contiene la documentazione di ONTAP Select 9.14.1.</block>
-  <block id="7436b418bed093768e360d32105591d2" category="sidebar">Documentazione ONTAP Select</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">Inizia subito</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Note di rilascio</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">Novità</block>
@@ -3774,4 +3773,5 @@ dischi di ricambio dell'aggregato di storage</block>
   <block id="f99bb666310fb365b4d0029c161a384b" category="admonition">ONTAP Select 9.12.1 (e versioni successive) ora supporta DR SVM come origine e destinazione, con un massimo di 16 relazioni. Il supporto DR SVM è limitato all'utilizzo della versione ONTAP di origine alle versioni +2. Ad esempio, l'origine ONTAP Select 9.12.1 può connettersi alle versioni di ONTAP di destinazione 9.12.1, 9.13.1 o 9.14.1.</block>
   <block id="78fb396e8c541b492002e6b94963fe83" category="list-text">ONTAP Select 9.14.1 include il supporto per VMware ESXi 8,0.2.</block>
   <block id="2908aba1afb68c480565ae68ebe3508c" category="list-text">A partire da ONTAP 9.13,1, VMware ESXi 8.0.1 GA (build 20513097) è supportato con la versione hardware 4 e successive.</block>
+  <block id="7f354690d454e4370ee79703e014fbd0" category="sidebar">Documentazione di ONTAP Select 9.14.1</block>
 </blocks>
