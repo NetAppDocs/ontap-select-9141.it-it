@@ -3721,4 +3721,6 @@ dischi di ricambio dell'aggregato di storage</block>
   <block id="2e6bba9624b33764642b52b2cab65274" category="list-text"><block ref="2e6bba9624b33764642b52b2cab65274" category="inline-link-macro-rx"></block></block>
   <block id="bf55dfa0f53f23704c47337781c41d3d" category="inline-link">Hai un account registrato sul sito di supporto NetApp</block>
   <block id="914500048ffed1428cdb2b9c357cc238" category="paragraph"><block ref="a25ad1701b82327b9cc6269d54c24597" category="inline-link-rx"></block>.</block>
+  <block id="82f452184fa717ab2fcdbde25eea3a2b" category="inline-link-macro">Scopri di più sulle licenze per le distribuzioni di produzione</block>
+  <block id="74d4caeb059278dbd1c813ff422126a8" category="list-text"><block ref="74d4caeb059278dbd1c813ff422126a8" category="inline-link-macro-rx"></block></block>
 </blocks>
