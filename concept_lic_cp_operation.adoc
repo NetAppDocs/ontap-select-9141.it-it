@@ -53,8 +53,7 @@ Ogni istanza del Manager di licenza, e quindi ogni istanza dell'utility di imple
 
 * Pagina introduttiva
 Questa pagina viene visualizzata quando si accede per la prima volta alla distribuzione. È inoltre possibile visualizzare la pagina facendo clic sulla casella a discesa in alto a destra della pagina e selezionando Guida introduttiva. L'LLID viene visualizzato nella sezione Add Licenses (Aggiungi licenze).
-* Amministrazione
-Fare clic sulla scheda *Amministrazione* nella parte superiore della pagina, quindi fare clic su *sistemi* e *Impostazioni*.
+* Amministrazione Fai clic sulla scheda *Amministrazione* nella parte superiore della pagina, quindi fai clic su *Systems & AutoSupport*.
 
 
 
